@@ -1,0 +1,14 @@
+body {
+	background-color: turquoise;
+}
+
+.page-header {
+	background-color: orange;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.instructions {
+	background-color: white;
+}
+
